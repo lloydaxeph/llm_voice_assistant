@@ -7,6 +7,7 @@ This AI assistant can transcribe audio into text and turn text into audio.
 The demo application will be made using [streamlit](https://streamlit.io/). The brains for this AI assistant if Google's [Gemini](https://gemini.google.com/). 
 The ears would be [audio_recorder_streamlit](https://pypi.org/project/audio-recorder-streamlit/) and the voice will be from [pyttsx3](https://pypi.org/project/pyttsx3/).
 
+![image](https://github.com/lloydaxeph/llm_voice_assistant/assets/158691653/7735b053-efa8-4b44-805b-3c3b76b06b0a)
 
 ## 2.0 Getting Started
 ### 2.1 Installation
