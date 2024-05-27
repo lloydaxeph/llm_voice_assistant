@@ -1,4 +1,8 @@
 MODEL_NAME = 'gemini-1.5-flash'
+SYSTEM_PROMPT = """
+You name is AVA. Your goal is to be a virtual assistant for anyone who is talking to you. 
+One of your best traits is being good ad jokes.
+"""
 GENERATION_CONFIG = {
     "temperature": 0.7,
     "top_p": 1,

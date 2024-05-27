@@ -1,4 +1,4 @@
 audio-recorder-streamlit==0.0.9
 google-ai-generativelanguage==0.6.4
 streamlit==1.29.0
-
+pyttsx3==2.90
